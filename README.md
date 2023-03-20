@@ -24,8 +24,14 @@
 - [ ] PGD
       <br><br>
 
-1. 적대적 공격 방어 기법
+3. 적대적 공격 방어 기법
 
 - [ ] Defense-GAN
 - [ ] PCA(Principal Component Analysis)
 - [ ] MagNet
+
+4. GAN
+
+- [ ] GAN-MNIST
+- [ ] GAN-facial
+- [ ] GAN-3D
