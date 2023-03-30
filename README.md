@@ -22,6 +22,7 @@
 
 - [ ] FGSM
 - [ ] PGD
+- [ ] C&W
       <br><br>
 
 3. 적대적 공격 방어 기법(defense_adversarial_attack)
